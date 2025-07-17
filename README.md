@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mattmorgis-nuanced-mcp-badge.png)](https://mseep.ai/app/mattmorgis-nuanced-mcp)
+
 # Nuanced MCP Server
 
 A [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server that provides call graph analysis capabilities to LLMs through the [nuanced](https://github.com/nuanced-dev/nuanced) library.
